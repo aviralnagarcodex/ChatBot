@@ -1,6 +1,11 @@
-# Project Title
+# Chat Bot
 
-A brief description of what this project does and its purpose.
+This project focuses on creating an intelligent chatbot powered by Natural Language Processing (NLP) to enhance automated customer support and deliver accurate responses to user queries. It is designed for seamless integration into various platforms, providing quick and efficient communication.
+
+Natural Language Understanding (NLU): Accurately interprets user intent and context.
+Automated Responses: Provides precise answers to user queries in real-time.
+Scalable Integration: Compatible with web applications, messaging platforms, and customer support systems.
+Improved User Interaction: Enhances user experience with natural and conversational response flows.
 
 ## Table of Contents
 
